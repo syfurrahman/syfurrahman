@@ -1,5 +1,3 @@
-     ![istockphoto-1393018012-612x612](https://github.com/user-attachments/assets/92717e66-adb4-4745-9735-02a94ea1f13d)
-
 ### Hi there 👋
 Syfur Rahman is an aspiring Software Engineer currently pursuing his undergraduate degree in Computer Science at Hunter College. With a keen interest in the convergence of Finance and Technology, he is actively working towards establishing a career in the tech industry. Syfur's primary focus lies in Software Engineering, although he also harbors a strong inclination towards the realm of Cybersecurity.
 
