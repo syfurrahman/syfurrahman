@@ -5,7 +5,6 @@ Demonstrating advanced proficiency in a range of programming languages including
 
 Beyond the world of technology, Syfur Rahman is a multifaceted individual. He has also made a mark as an athlete, having actively participated in varsity basketball, volleyball, and bowling. His commitment to both academics and extracurricular pursuits underscores his dedication and well-rounded nature. Connect with him on [Linkedin](https://www.linkedin.com/in/syfurrahman/) and follow his journey as he continues to explore and excel in the ever-evolving landscape of software and technology.
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
