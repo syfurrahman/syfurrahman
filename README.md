@@ -1,5 +1,5 @@
 ### Hi there 👋
-Syfur Rahman is an aspiring Software Engineer currently pursuing his undergraduate degree in Computer Science at Hunter College. With a keen interest in the convergence of Finance and Technology, he is actively working towards establishing a career in the tech industry. Syfur's primary focus lies in Software Engineering, although he also harbors a strong inclination towards the realm of Cybersecurity.
+Syfur Rahman is an aspiring Software Engineer currently pursuing his undergraduate degree in Computer Science at Hunter College. With a keen interest in the convergence of Finance and Technology, he is actively working towards establishing a career in the tech industry. Syfur's primary focus lies in Software Engineering, although he also harbors a strong inclination towards the realm of Data Analytics and Cybersecurity.
 
 Demonstrating advanced proficiency in a range of programming languages including JavaScript, Python, C++, Node.js, HTML, and CSS, he is presently engaged in web development and dedicatedly honing his skills in data structures and algorithms through rigorous practice on platforms like LeetCode. His GitHub profile showcases a diverse collection of projects that highlight his programming prowess.
 
