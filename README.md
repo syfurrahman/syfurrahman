@@ -12,3 +12,5 @@ Beyond the world of technology, Syfur Rahman is a multifaceted individual. He ha
 </p>
 
 
+![syfurrahman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syfurrahman&theme=tokyonight&hide_border=true)
+![syfurrahman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syfurrahman&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
