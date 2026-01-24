@@ -10,6 +10,3 @@ Beyond the world of technology, Syfur Rahman is a multifaceted individual. He ha
 <p align="left">
 <a href="https://linkedin.com/in/syfurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syfurrahman" height="30" width="40" /></a>
 </p>
-
-
-![syfurrahman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syfurrahman&theme=tokyonight&hide_border=true)
